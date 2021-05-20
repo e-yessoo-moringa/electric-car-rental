@@ -3,11 +3,8 @@ Analysis of electric car usage over time in the city of Paris over the month of 
 
 
 # Tools
-Jupiter notebook
-Google Docs
-Jira
+Jupiter notebook, Google Docs, Jira
 
 
 # Language used:
-Python
-SQL
+Python, SQL

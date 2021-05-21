@@ -18,4 +18,4 @@ Python
 # Known Bugs
 There are no known bugs
 
-# License information with a copyright and date
+Copyright - Elveena Yessoo

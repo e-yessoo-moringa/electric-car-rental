@@ -1,27 +1,15 @@
-# Description of the project's purpose
-Analysis of electric car usage over time in the city of Paris over the month of April 2018.
+# DATA ANALYSIS
+By Elveena Yessoo
+21/05/2021
 
+# Description of the project's purpose
+The objective of this report is to analyse electric car rental data over a span of 9 days across different stations in France and to identify the hours of the day and the stations which are the most popular for electric car rentals.
 
 # Tools
-Jupiter notebook, Google Docs, Jira
-
+Google CoLabs, G-suite, JIRA, GitHub
 
 # Language used:
-Python, SQL
+Python
 
 
 # License information with a copyright and date
-
-
-
-Application name
-Names of contributors
-Description of the project's purpose
-Complete setup/installation instructions
-Live demo
-Instructions on running tests
-Technologies used
-Future features or to do list
-Known bugs
-Contact information
-Support or contribution instructions

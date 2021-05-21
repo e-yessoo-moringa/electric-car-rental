@@ -7,6 +7,7 @@ The objective of this report is to analyse electric car rental data over a span 
 
 # Set up and Installation Requirements
 > Data preparation on Google CoLabs
+> 
 > Imported Pandas, Numpy and Matplotlib libraries
 
 # Tools
